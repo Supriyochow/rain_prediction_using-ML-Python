@@ -1,6 +1,6 @@
 # rain_prediction_using-ML-Python
 
-This is a program that predicts the possibilities of rain for the next day. The data is inputed for a certain day and it predicts the rain possibilities for the next day. 
+This is a Machine Learning model that predicts the possibilities of rain for the next day. The data is inputed for a certain day and it predicts the rain possibilities for the next day. 
 
 ## Dataset Source
 The dataset is taken from the Kaggle website. The dataset link is given https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
